@@ -3,7 +3,7 @@
 	url = https://github.com/pybpod/pybpod-api.git
 [submodule "base - pybpod-gui-api"]
 	path = base/pybpod-gui-api
-	url = https://github.com/pybpod/pybpod-gui-api.git
+	url = https://github.com/int-brain-lab/pybpod-gui-api
 [submodule "base - pybpod-gui-plugin"]
 	path = base/pybpod-gui-plugin
 	url = https://github.com/pybpod/pybpod-gui-plugin.git
@@ -39,7 +39,7 @@
 	url = https://github.com/pybpod/pybpod-gui-plugin-stmdiagram.git
 [submodule "plugins - pybpod-gui-plugin-alyx"]
 	path = plugins/pybpod-gui-plugin-alyx
-	url = https://github.com/pybpod/pybpod-gui-plugin-alyx
+	url = https://github.com/int-brain-lab/pybpod-gui-plugin-alyx
 [submodule "plugins - pybpod-gui-plugin-waveplayer"]
 	path = plugins/pybpod-gui-plugin-waveplayer
 	url = https://github.com/pybpod/pybpod-gui-plugin-waveplayer
